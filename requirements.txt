@@ -1,10 +1,6 @@
-langchain
-langchain-community
-chromadb
-sentence-transformers
-pypdf
-transformers
+LangChain: pipeline RAG
+ChromaDB: vector store
+Sentence-Transformers: embeddings HF
+pypdf: loader PDF
+transformers, torch, accelerate: LLM open-source
 huggingface-hub
-python-dotenv
-torch
-accelerate
