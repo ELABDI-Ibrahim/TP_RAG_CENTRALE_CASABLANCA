@@ -1,4 +1,4 @@
-#Q1:embeddings (HuggingFace)
+#Q1:embeddings (HuggingFace) 
 from langchain_community.embeddings import HuggingFaceEmbeddings
 
 class Embedder:
